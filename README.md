@@ -23,7 +23,7 @@ $$
 \text{digit} = \left\lfloor \frac{\text{number}}{10^p} \right\rfloor \pmod{10}
 $$
 
-*Example for number $749$ at pass $p = 1$ (10s digit):*
+*Example for number 749 at pass p = 1 (10s digit):*
 
 $$
 \left\lfloor \frac{749}{10^1} \right\rfloor = 74 \implies 74 \pmod{10} = 4
